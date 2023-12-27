@@ -1,0 +1,12 @@
+
+.navbar-list{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.navbar-list:hover{
+    cursor: pointer;
+}
